@@ -17,43 +17,39 @@ _You **can** combine them_
 
 
 
-1.James Madison
-2.James Monroe
-3.John Quincy Admas
+1. James Madison
+2. James Monroe
+3. John Quincy Adams
 
 
 
-1.Make my changes
-  1.Fix bug
-  2.Improve formatting
-    *Make the headings bigger
-2.Push my commits to GitHub
-3.Open a pull request
-  *Describe my changes
-  *Mention all the member of my team
-    *Ask for feedback
-    
-    
-    
-[x]Finish my changes
-[ ]Push my commits to GitHub
-[ ]Open a pull request
+1. Make my changes
+  1. Fix bug
+  2. Improve formatting
+    * Make the headings bigger
+2. Push my commits to GitHub
+3. Open a pull request
+  * Describe my changes
+  * Mention all the members of my team
+    * Ask for feedback
 
 
 
-[github](http://github.com)
+
+- [x] Finish my changes
+- [ ] Push my commits to GitHub
+- [ ] Open a pull request
 
 
+## Structured documents
 
-##Structured documents
+Sometimes it's useful to have different levels of headings to structure your documents. Start lines with a `#` to create headings. Multiple `##` in a row denote smaller heading sizes.
 
-Sometimes it's useful to have different levels of headings to structure your documents.Start lines with a
+#### This is a third-tier heading
 
-####This is a third-tier heading
+You can use one `#` all the way up to `######` six for different heading sizes.
 
-You can use one 'a' all the way up to '#####' six for differdent heading sizes.
+If you'd like to quote someone, use the > character before the line:
 
-If you'd like to quote someone,use the > character before the line;
-
-> Coffee. The finest organic suspension ever devised ...I beat the Borg with it.
+> Coffee. The finest organic suspension ever devised... I beat the Borg with it.
 > - Captain Janeway
